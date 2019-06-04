@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="pt">
 <head>
 	<title>Cloud 83 - Hosting Template</title>
 	<meta charset="UTF-8">

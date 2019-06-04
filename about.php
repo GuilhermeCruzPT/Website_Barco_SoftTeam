@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="pt">
 <head>
 	<title>Soft Team v  </title>
 	<meta charset="UTF-8">
