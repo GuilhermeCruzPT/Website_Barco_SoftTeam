@@ -66,9 +66,11 @@
 		<div class="hero-slider owl-carousel">
 			<div class="hs-item set-bg" data-setbg="img/bg.jpg">
 				<div class="container">
-					<h2>Catamaran Autónomo</h2>
-					<p>O objetivo deste barco, é ser comandado por rádio,</p>
-					<p>baseado no raspi com o sistema operativo ROS que irá medir a temperatura da água  do mar,que irá envie vídeo e telemetria para uma estação em terra.</p>
+					<h2>Soft Team</h2>
+					<p>Nós somos a equipa Soft Team, uma equipa divertida, trabalhadora, 
+					criativa, empenhada e unida, somos da Escola de Serviços e Comercio 
+					do Oeste (ESCO), 
+					Somos da turma de Programação e Gestão de Sistemas Informáticos (PSI3).</p>
 					<div class="clearfix"></div>
 					<a href="" class="site-btn sb-c1">Saber Mais</a>
 				</div>
@@ -227,8 +229,8 @@
 						<img src="img/milestone-icons/1.png" alt="">
 					</div>
 					<div class="milestone-text text-white">
-						<h2>31k</h2>
-						<p>Clients</p>
+						<h2>3</h2>
+						<p>Alunos</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
@@ -245,8 +247,8 @@
 						<img src="img/milestone-icons/3.png" alt="">
 					</div>
 					<div class="milestone-text text-white">
-						<h2>14k</h2>
-						<p>Awards</p>
+						<h2>320h</h2>
+						<p>Estagio</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
@@ -323,7 +325,7 @@
 							<li><a href="">Cloud Hosting</a></li>
 							<li><a href="">Linux Servers</a></li>
 							<li><a href="">Web Hosting</a></li>
-						</ul>
+						</ul>-
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-4">
